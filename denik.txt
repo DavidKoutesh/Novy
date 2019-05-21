@@ -1,0 +1,8 @@
+Den 1
+Vytvoøil jsem github repozitory na svém PC, a nauèil jsem se logovat zmìny a editovat soubory. Online jsem se zaregistroval a uploadoval jsem na svùj online github repozitory i file s textem.
+Seznámil jsem se s valditorem kodu, který kontroluje chyby na webovích stránkách
+Seznámil jsem se taky s MVC architekturkou
+podle ní by se mìla webová stránka rozdìlit na model (logiku, výoèty tahaní dat z databáze) view (to co se zobrazuje uživateli) a controleru (to co umožnuje modelu èi logice vypsat informace na view)
+Den 2
+Osvojil jsem si pøíkazy pull , clone , commit a push
+vytvoøil jsem složky ukol 1 a ukol 2 a v jedné z nich jsem udìlal primitivní webovou stránku
