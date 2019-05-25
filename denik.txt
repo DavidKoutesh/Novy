@@ -1,8 +1,35 @@
 Den 1
-Vytvoøil jsem github repozitory na svém PC, a nauèil jsem se logovat zmìny a editovat soubory. Online jsem se zaregistroval a uploadoval jsem na svùj online github repozitory i file s textem.
+Vytvoøil jsem github repozitory na svém PC, a nauèil jsem se logovat zmìny a editovat soubory. 
+
+Online jsem se zaregistroval a uploadoval jsem na svùj online github repozitory i file s textem.
+
 Seznámil jsem se s valditorem kodu, který kontroluje chyby na webovích stránkách
+<Dopl¿ url>
+
 Seznámil jsem se taky s MVC architekturkou
-podle ní by se mìla webová stránka rozdìlit na model (logiku, výoèty tahaní dat z databáze) view (to co se zobrazuje uživateli) a controleru (to co umožnuje modelu èi logice vypsat informace na view)
+podle ní by se mìla webová stránka rozdìlit na:
+model (logiku, výoèty tahaní dat z databáze) 
+view (to co se zobrazuje u¿ivateli) a 
+controleru (to co umo¿nuje modelu èi logice vypsat informace na view)
+
+<jaká vrstva zpracovává dotazy jdoucí od klienta?>
+
 Den 2
 Osvojil jsem si pøíkazy pull , clone , commit a push
-vytvoøil jsem složky ukol 1 a ukol 2 a v jedné z nich jsem udìlal primitivní webovou stránku
+vytvoøil jsem slo¿ky ukol 1 a ukol 2 a v jedné z nich jsem udìlal primitivní webovou stránku
+
+
+<dopsat zbylé dny>
+
+<napi¿ mi n¿co k bootstrapu, jak se ti s nim pracovalo, co pova¿uje¿ za dobré,
+co za ¿patné atd..>
+
+
+
+TO DO:
+ - Soubory ukládej do UTF8 (je to praktické mezi r¿znými systémy)
+ - GIT: seznámíme se s prací ve v¿tvích
+
+
+
+
