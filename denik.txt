@@ -6,3 +6,22 @@ podle ní by se mìla webová stránka rozdìlit na model (logiku, výoèty tahaní dat 
 Den 2
 Osvojil jsem si pøíkazy pull , clone , commit a push
 vytvoøil jsem složky ukol 1 a ukol 2 a v jedné z nich jsem udìlal primitivní webovou stránku
+Den 3
+Vylepšil jsem webovou stráku a plnì jsem si osvojil možnosti bootstrapu
+Ve zbívajicím èase jsem studoval rùznì výpoèetní algoritmy a jeden jsem popsal podrobnì do dokumentu PseudoNahodny.odt
+Den 4
+Nepøítomen (Kontrola u školního psychologa)
+Den 5
+?
+Den 6
+?
+Den 7
+Nepøitomen (aplikace medikace na odborném pracovišti)
+Den 8 a 9
+Plnì jsem aplikoval bootstrap na pøedešlé TWA projekty ze školy, vzhled stránek se drasticky zlepšil
+Na jednotlivé pøíspìvky jsem využil objekt nazvaný jumbo. Tento objekt vypisuje každý jednotlivý pøíspìvek na své vlastní kartièce a backgroundu
+V projektu jsem našel rùzné upozornìní, na ty jsem využil objekt alert. Na webovce koncerty jsem využil i další objekty z boostrapu.
+Den 10
+
+
+
